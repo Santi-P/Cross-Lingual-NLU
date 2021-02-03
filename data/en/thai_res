@@ -1,0 +1,29 @@
+print(result["report"])
+
+print(result["seq_accuracy"])
+
+                             precision    recall  f1-score   support
+
+                 B-datetime    0.63811   0.60054   0.61876      1104
+                 B-location    0.91096   0.82609   0.86645       161
+            B-reminder/noun    0.00000   0.00000   0.00000       228
+B-reminder/recurring_period    0.66667   0.20000   0.30769        10
+       B-reminder/reference    0.00000   0.00000   0.00000         7
+            B-reminder/todo    0.85455   0.46382   0.60128       304
+        B-weather/attribute    1.00000   0.19868   0.33149       453
+             B-weather/noun    0.00000   0.00000   0.00000       218
+                 I-datetime    0.82528   0.79241   0.80851      2134
+                 I-location    0.84422   0.89362   0.86822       188
+            I-reminder/noun    0.00000   0.00000   0.00000       450
+I-reminder/recurring_period    1.00000   0.44000   0.61111        25
+       I-reminder/reference    0.00000   0.00000   0.00000        11
+            I-reminder/todo    0.93727   0.80892   0.86838       942
+        I-weather/attribute    0.96396   0.47137   0.63314       227
+             I-weather/noun    0.00000   0.00000   0.00000       146
+                    NoLabel    0.74027   0.94803   0.83137      7062
+
+                   accuracy                        0.76540     13670
+                  macro avg    0.55184   0.39079   0.43214     13670
+               weighted avg    0.72019   0.76540   0.72387     13670
+
+0.3008274231678487

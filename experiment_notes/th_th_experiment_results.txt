@@ -1,0 +1,59 @@
+th_th_experiment_results.th_th_experiment_results                          precision    recall  f1-score   support
+
+reminder/cancel_reminder       0.97      0.94      0.96       103
+            weather/find       1.00      1.00      1.00       653
+      alarm/cancel_alarm       0.97      0.92      0.95       186
+ reminder/show_reminders       0.93      0.92      0.92        71
+      alarm/snooze_alarm       1.00      0.95      0.98        21
+alarm/time_left_on_alarm       1.00      1.00      1.00        20
+      alarm/modify_alarm       1.00      0.54      0.70        13
+     weather/checkSunset       0.00      0.00      0.00         0
+    weather/checkSunrise       0.00      0.00      0.00         0
+       alarm/show_alarms       0.95      0.93      0.94        85
+   reminder/set_reminder       0.97      0.99      0.98       268
+         alarm/set_alarm       0.93      0.97      0.95       272
+
+               micro avg       0.97      0.97      0.97      1692
+               macro avg       0.81      0.76      0.78      1692
+            weighted avg       0.97      0.97      0.97      1692
+
+                              precision    recall  f1-score   support
+
+      B-alarm/alarm_modifier       0.00      0.00      0.00         0
+        I-reminder/reference       0.50      0.06      0.11        16
+B-reminder/reminder_modifier       0.00      0.00      0.00         0
+             I-reminder/todo       0.88      0.92      0.90      1565
+                     NoLabel       0.97      0.95      0.96     10852
+          B-timer/attributes       0.00      0.00      0.00         0
+                  B-datetime       0.85      0.84      0.84      1553
+             B-reminder/todo       0.84      0.70      0.77       422
+ B-reminder/recurring_period       0.00      0.00      0.00        15
+                B-timer/noun       0.00      0.00      0.00         0
+              I-weather/noun       0.90      0.90      0.90       294
+                  B-negation       0.00      0.00      0.00         0
+             B-reminder/noun       0.95      0.95      0.95       389
+         I-weather/attribute       0.79      0.81      0.80       489
+      I-alarm/alarm_modifier       0.00      0.00      0.00         0
+              B-weather/noun       0.95      0.94      0.95       491
+                  I-datetime       0.90      0.96      0.93      3969
+         B-weather/attribute       0.92      0.95      0.93       956
+ I-reminder/recurring_period       0.00      0.00      0.00        31
+                  I-location       0.70      0.56      0.62       417
+   B-demonstrative_reference       0.00      0.00      0.00         0
+                  B-location       0.68      0.65      0.66       441
+I-reminder/reminder_modifier       0.00      0.00      0.00         0
+        B-reminder/reference       1.00      0.14      0.25         7
+   B-weather/temperatureUnit       0.00      0.00      0.00         0
+             I-reminder/noun       0.93      0.97      0.95       739
+                 B-news/type       0.00      0.00      0.00         0
+   I-demonstrative_reference       0.00      0.00      0.00         0
+                  I-negation       0.00      0.00      0.00         0
+    B-alarm/recurring_period       0.00      0.00      0.00         0
+    I-alarm/recurring_period       0.00      0.00      0.00         0
+
+                   micro avg       0.92      0.92      0.92     22646
+                   macro avg       0.41      0.37      0.37     22646
+                weighted avg       0.92      0.92      0.92     22646
+
+sequence accuracy:  0.6223404255319149
+exact matches 0.6087470449172577

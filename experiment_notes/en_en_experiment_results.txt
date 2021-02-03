@@ -1,0 +1,63 @@
+                        precision    recall  f1-score   support
+
+reminder/cancel_reminder       1.00      0.99      0.99       333
+            weather/find       1.00      1.00      1.00      3952
+      alarm/cancel_alarm       0.98      0.99      0.99       588
+ reminder/show_reminders       0.99      1.00      0.99       287
+      alarm/snooze_alarm       0.97      0.97      0.97       118
+alarm/time_left_on_alarm       0.96      0.98      0.97       109
+      alarm/modify_alarm       0.92      0.87      0.90       125
+     weather/checkSunset       1.00      0.96      0.98        54
+    weather/checkSunrise       1.00      1.00      1.00        34
+       alarm/show_alarms       0.99      0.97      0.98       294
+   reminder/set_reminder       0.99      1.00      1.00      1340
+         alarm/set_alarm       0.99      0.99      0.99      1387
+
+                accuracy                           0.99      8621
+               macro avg       0.98      0.98      0.98      8621
+            weighted avg       0.99      0.99      0.99      8621
+
+/home/santi/anaconda3/lib/python3.7/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/santi/anaconda3/lib/python3.7/site-packages/sklearn/metrics/classification.py:1439: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+                              precision    recall  f1-score   support
+
+      B-alarm/alarm_modifier       1.00      1.00      1.00         3
+        I-reminder/reference       0.00      0.00      0.00         0
+B-reminder/reminder_modifier       0.00      0.00      0.00         2
+             I-reminder/todo       0.96      0.95      0.96      4229
+                     NoLabel       0.99      0.98      0.98     37951
+          B-timer/attributes       0.00      0.00      0.00         0
+                  B-datetime       0.97      0.98      0.97      6706
+             B-reminder/todo       0.92      0.93      0.92      1665
+ B-reminder/recurring_period       0.90      0.74      0.81        99
+                B-timer/noun       0.00      0.00      0.00         0
+              I-weather/noun       0.93      0.97      0.95       204
+                  B-negation       0.00      0.00      0.00         3
+             B-reminder/noun       0.98      0.97      0.98      1925
+         I-weather/attribute       0.85      0.81      0.83       248
+      I-alarm/alarm_modifier       0.00      0.00      0.00         0
+              B-weather/noun       0.98      0.98      0.98      1718
+                  I-datetime       0.96      0.98      0.97     10114
+         B-weather/attribute       0.98      0.97      0.98      3968
+ I-reminder/recurring_period       0.85      0.74      0.79       109
+                  I-location       0.95      0.92      0.93       886
+   B-demonstrative_reference       0.00      0.00      0.00         0
+                  B-location       0.96      0.96      0.96      2319
+I-reminder/reminder_modifier       0.00      0.00      0.00         0
+        B-reminder/reference       0.84      0.78      0.80        85
+   B-weather/temperatureUnit       1.00      1.00      1.00       538
+             I-reminder/noun       0.00      0.00      0.00        13
+                 B-news/type       0.00      0.00      0.00         1
+   I-demonstrative_reference       0.00      0.00      0.00         0
+                  I-negation       0.00      0.00      0.00         0
+    B-alarm/recurring_period       0.00      0.00      0.00         0
+    I-alarm/recurring_period       0.00      0.00      0.00         0
+
+                   micro avg       0.97      0.97      0.97     72786
+                   macro avg       0.52      0.51      0.51     72786
+                weighted avg       0.97      0.97      0.97     72786
+
+sequence accuracy:  0.9030274910103236
+exact matches 0.897575687275258

@@ -1,0 +1,127 @@
+68.89it/s]*************** test results for  data/th/test-th_TH.conllu ***************
+/home/santi/anaconda3/lib/python3.7/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples.
+  'precision', 'predicted', average, warn_for)
+/home/santi/anaconda3/lib/python3.7/site-packages/sklearn/metrics/classification.py:1439: UndefinedMetricWarning: Recall and F-score are ill-defined and being set to 0.0 in labels with no true samples.
+  'recall', 'true', average, warn_for)
+                          precision    recall  f1-score   support
+
+reminder/cancel_reminder       0.97      0.94      0.96       103
+            weather/find       1.00      1.00      1.00       653
+      alarm/cancel_alarm       0.97      0.91      0.94       186
+ reminder/show_reminders       0.96      0.90      0.93        71
+      alarm/snooze_alarm       0.95      0.95      0.95        21
+alarm/time_left_on_alarm       0.95      0.95      0.95        20
+      alarm/modify_alarm       1.00      0.62      0.76        13
+     weather/checkSunset       0.00      0.00      0.00         0
+    weather/checkSunrise       0.00      0.00      0.00         0
+       alarm/show_alarms       0.93      0.96      0.95        85
+   reminder/set_reminder       0.96      0.99      0.98       268
+         alarm/set_alarm       0.94      0.98      0.96       272
+
+               micro avg       0.97      0.97      0.97      1692
+               macro avg       0.80      0.77      0.78      1692
+            weighted avg       0.97      0.97      0.97      1692
+
+                              precision    recall  f1-score   support
+
+      B-alarm/alarm_modifier       0.00      0.00      0.00         0
+        I-reminder/reference       0.40      0.25      0.31        16
+B-reminder/reminder_modifier       0.00      0.00      0.00         0
+             I-reminder/todo       0.94      0.95      0.94      1565
+                     NoLabel       0.98      0.98      0.98     10849
+          B-timer/attributes       0.00      0.00      0.00         0
+                  B-datetime       0.93      0.93      0.93      1553
+             B-reminder/todo       0.87      0.86      0.87       422
+ B-reminder/recurring_period       0.65      0.73      0.69        15
+                B-timer/noun       0.00      0.00      0.00         0
+              I-weather/noun       1.00      0.94      0.97       294
+                  B-negation       0.00      0.00      0.00         0
+             B-reminder/noun       0.98      0.97      0.98       389
+         I-weather/attribute       0.90      0.94      0.92       489
+      I-alarm/alarm_modifier       0.00      0.00      0.00         0
+              B-weather/noun       0.97      0.98      0.98       491
+                  I-datetime       0.97      0.97      0.97      3969
+         B-weather/attribute       0.96      0.97      0.96       956
+ I-reminder/recurring_period       0.58      0.48      0.53        31
+                  I-location       0.84      0.76      0.80       417
+   B-demonstrative_reference       0.00      0.00      0.00         0
+                  B-location       0.79      0.84      0.81       441
+I-reminder/reminder_modifier       0.00      0.00      0.00         0
+        B-reminder/reference       0.56      0.71      0.63         7
+   B-weather/temperatureUnit       0.00      0.00      0.00         0
+             I-reminder/noun       0.95      0.98      0.96       739
+                 B-news/type       0.00      0.00      0.00         0
+   I-demonstrative_reference       0.00      0.00      0.00         0
+                  I-negation       0.00      0.00      0.00         0
+    B-alarm/recurring_period       0.00      0.00      0.00         0
+    I-alarm/recurring_period       0.00      0.00      0.00         0
+
+                   micro avg       0.96      0.96      0.96     22643
+                   macro avg       0.46      0.46      0.46     22643
+                weighted avg       0.96      0.96      0.96     22643
+
+sequence accuracy:  0.8049645390070922
+exact matches 0.7884160756501182
+*************** cross test results for  data/th/test-th_TH.conllu ***************
+1289it [00:18, 68.86it/s]/home/santi/anaconda3/lib/python3.7/site-packages/sklearn/metrics/classification.py:1437: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 in labels with no predicted samples.                                                          
+  'precision', 'predicted', average, warn_for)
+                          precision    recall  f1-score   support
+
+reminder/cancel_reminder       1.00      0.99      0.99       333
+            weather/find       1.00      1.00      1.00      3952
+      alarm/cancel_alarm       0.98      0.99      0.99       588
+ reminder/show_reminders       0.99      0.99      0.99       287
+      alarm/snooze_alarm       0.94      0.98      0.96       118
+alarm/time_left_on_alarm       0.96      0.96      0.96       109
+      alarm/modify_alarm       0.91      0.86      0.88       125
+     weather/checkSunset       1.00      0.96      0.98        54
+    weather/checkSunrise       0.97      1.00      0.99        34
+       alarm/show_alarms       0.99      0.97      0.98       294
+   reminder/set_reminder       0.99      1.00      1.00      1340
+         alarm/set_alarm       0.99      0.98      0.98      1387
+
+                accuracy                           0.99      8621
+               macro avg       0.98      0.97      0.97      8621
+            weighted avg       0.99      0.99      0.99      8621
+
+                              precision    recall  f1-score   support
+
+      B-alarm/alarm_modifier       1.00      1.00      1.00         3
+        I-reminder/reference       0.00      0.00      0.00         0
+B-reminder/reminder_modifier       0.00      0.00      0.00         2
+             I-reminder/todo       0.96      0.95      0.96      4229
+                     NoLabel       0.98      0.98      0.98     37951
+          B-timer/attributes       0.00      0.00      0.00         0
+                  B-datetime       0.97      0.97      0.97      6706
+             B-reminder/todo       0.91      0.94      0.92      1665
+ B-reminder/recurring_period       0.88      0.74      0.80        99
+                B-timer/noun       0.00      0.00      0.00         0
+              I-weather/noun       0.93      0.98      0.95       204
+                  B-negation       0.00      0.00      0.00         3
+             B-reminder/noun       0.98      0.98      0.98      1925
+         I-weather/attribute       0.82      0.81      0.81       248
+      I-alarm/alarm_modifier       0.00      0.00      0.00         0
+              B-weather/noun       0.98      0.98      0.98      1718
+                  I-datetime       0.96      0.97      0.97     10114
+         B-weather/attribute       0.98      0.97      0.97      3968
+ I-reminder/recurring_period       0.81      0.75      0.78       109
+                  I-location       0.95      0.93      0.94       886
+   B-demonstrative_reference       0.00      0.00      0.00         0
+                  B-location       0.96      0.97      0.96      2319
+I-reminder/reminder_modifier       0.00      0.00      0.00         0
+        B-reminder/reference       0.84      0.74      0.79        85
+   B-weather/temperatureUnit       1.00      0.99      1.00       538
+             I-reminder/noun       0.00      0.00      0.00        13
+                 B-news/type       0.00      0.00      0.00         1
+   I-demonstrative_reference       0.00      0.00      0.00         0
+                  I-negation       0.00      0.00      0.00         0
+    B-alarm/recurring_period       0.00      0.00      0.00         0
+    I-alarm/recurring_period       0.00      0.00      0.00         0
+
+                   micro avg       0.97      0.97      0.97     72786
+                   macro avg       0.51      0.50      0.51     72786
+                weighted avg       0.97      0.97      0.97     72786
+
+sequence accuracy:  0.902447511889572
+exact matches 0.8960677415613038
+1290it [00:22, 56.45it/s]
