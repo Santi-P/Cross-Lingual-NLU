@@ -1,3 +1,4 @@
 # Cross-Lingual-NLU
 
-HELLO GITHUB
+# TODO 
+fix boolean arguments in train_eval.py
