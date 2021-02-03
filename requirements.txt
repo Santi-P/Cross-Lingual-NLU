@@ -1,0 +1,8 @@
+pandas==1.1.1
+sklearn_crfsuite==0.3.6
+transformers==4.3.0.dev0
+torch==1.7.1
+conllu==3.1.1
+numpy==1.19.5
+scikit_learn==0.24.1
+trainer==0.0.1
