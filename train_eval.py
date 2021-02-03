@@ -236,7 +236,7 @@ training_args = TrainingArguments(
     label_names=["intent_label_ids", "slot_labels_ids"],
     evaluation_strategy="epoch",
     run_name=args.run_name,
-    load_best_model_at_end = True, 
+    #load_best_model_at_end = True, 
 )
 
 # default config for XLM-R
