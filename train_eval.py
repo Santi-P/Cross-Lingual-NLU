@@ -118,8 +118,7 @@ parser.add_argument("--chkpt_dir", type=str)
 parser.add_argument(
     "--fp16",
     default=True, 
-    const=False,
-    nargs = '?',
+    action = 'store_false',
     help="enable mixed-precision training. Use False if nvidia apex is unavailable",
 )
 parser.add_argument(
@@ -128,8 +127,8 @@ parser.add_argument(
 parser.add_argument(
     "--sequential_train",
     default=False, 
-    const=False,
-    nargs = '?',
+    action = 'store_true',
+
     help="""sequential train performs cross lingual training sequentially.
             Otherwise the second dataset will be concatenated and shuffled""",
 )
@@ -232,7 +231,7 @@ training_args = TrainingArguments(
     logging_dir="./logs",
     learning_rate=args.lr,
     save_steps=5000,
-    fp16=False,
+    fp16=args.fp16,
     label_names=["intent_label_ids", "slot_labels_ids"],
     evaluation_strategy="epoch",
     run_name=args.run_name,
