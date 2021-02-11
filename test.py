@@ -8,8 +8,6 @@ from transformers import (
 )
 
 import numpy as np
-
-
 from XLMTransformers import JointClassifier
 import torch
 from trainer import config_init

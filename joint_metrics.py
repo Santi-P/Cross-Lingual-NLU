@@ -40,6 +40,29 @@ from sklearn_crfsuite import metrics as seq_metrics
 #     return sanitized_gold, sanitized_pred
 
 
+def show_align_labels(p,tokenized_utterances, intent_label_list, slot_label_list, ):
+    intent_predictions, slot_predictions = p.predictions
+    intent_labels, slot_labels = p.label_ids
+
+    slot_predictions = np.argmax(slot_predictions, axis=2)
+    intent_predictions = np.argmax(intent_predictions, axis=1)
+
+    slot_predictions_clean = [
+        [slot_label_list[p] for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(slot_predictions, slot_labels)
+    ]
+    slot_labels_clean = [
+        [slot_label_list[l] for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(slot_predictions, slot_labels)
+    ]
+
+    for pred, gold, itent_pred, intent_gold, utter in zip(slot_predictions_clean, slot_labels_clean,intent_predictions, intent_predictions,tokenized_utterances):
+        print()
+        print(intent_label_list[itent_pred],"\t",intent_label_list[intent_gold])
+
+        for  tok_pred, tok_gold,real_tok in zip(pred,gold,utter):
+            print(real_tok,"\t", tok_pred,"\t", tok_gold)
+
 def joint_classification_report(p, intent_label_list, slot_label_list, verbose=True):
     intent_predictions, slot_predictions = p.predictions
     intent_labels, slot_labels = p.label_ids
@@ -69,6 +92,7 @@ def joint_classification_report(p, intent_label_list, slot_label_list, verbose=T
                 intent_predictions,
                 target_names=intent_label_list,
                 labels=labels_intent,
+                digits = 4,
             )
         )
         print(
@@ -77,6 +101,7 @@ def joint_classification_report(p, intent_label_list, slot_label_list, verbose=T
                 slot_predictions_clean,
                 target_names=slot_label_list,
                 labels=labels_slot,
+                digits = 4,
             )
         )
         print("sequence accuracy: ", seq_acc)
@@ -89,6 +114,7 @@ def joint_classification_report(p, intent_label_list, slot_label_list, verbose=T
         target_names=slot_label_list,
         labels=labels_slot,
         output_dict=True,
+        digits = 5,
     )
 
     intent_res_dict = classification_report(
@@ -97,6 +123,7 @@ def joint_classification_report(p, intent_label_list, slot_label_list, verbose=T
         target_names=intent_label_list,
         labels=labels_intent,
         output_dict=True,
+        digits = 5,
     )
 
     return {

@@ -14,7 +14,6 @@ class LoadData:
             for line in f:
                 #try:
                 items = line.split("\t")
-                print(items)
                 di = json.loads(items[-1])
                 #print(di['tokenizations'][0]['tokens'])
 

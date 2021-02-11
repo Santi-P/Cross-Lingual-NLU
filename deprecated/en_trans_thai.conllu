@@ -1,0 +1,4504 @@
+hi
+# text: tell me the weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:26:weather/noun,31:44:location
+
+1 บอก  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 รายงาน  weather/find	I-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: tell me the weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:26:weather/noun,31:44:location
+
+1 บอก  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 รายงาน  weather/find	I-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: tell me the weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:26:weather/noun,31:44:location
+
+1 บอก  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 รายงาน  weather/find	I-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: tell me the weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:26:weather/noun,31:44:location
+
+1 บอก  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 รายงาน  weather/find	I-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: tell me the weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:26:weather/noun,31:44:location
+
+1 บอก  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 รายงาน  weather/find	I-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:18:datetime,19:27:weather/noun,32:45:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 ล่าสุด  weather/find	B-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:18:datetime,19:27:weather/noun,32:45:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 ล่าสุด  weather/find	B-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:18:datetime,19:27:weather/noun,32:45:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 ล่าสุด  weather/find	B-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:18:datetime,19:27:weather/noun,32:45:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 ล่าสุด  weather/find	B-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:18:datetime,19:27:weather/noun,32:45:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 ล่าสุด  weather/find	B-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me friday's forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:14:datetime,17:25:weather/noun,30:43:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันศุกร์  weather/find	B-datetime
+4 พยากรณ์  weather/find	B-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: give me friday's forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:14:datetime,17:25:weather/noun,30:43:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันศุกร์  weather/find	B-datetime
+4 พยากรณ์  weather/find	B-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: give me friday's forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:14:datetime,17:25:weather/noun,30:43:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันศุกร์  weather/find	B-datetime
+4 พยากรณ์  weather/find	B-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: give me friday's forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:14:datetime,17:25:weather/noun,30:43:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันศุกร์  weather/find	B-datetime
+4 พยากรณ์  weather/find	B-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: give me friday's forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:14:datetime,17:25:weather/noun,30:43:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันศุกร์  weather/find	B-datetime
+4 พยากรณ์  weather/find	B-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: i need to know the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 19:25:datetime,26:34:weather/noun,39:52:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ถึง  weather/find	NoLabel
+4 ทราบ  weather/find	NoLabel
+5 ที่  weather/find	NoLabel
+6 ล่าสุด  weather/find	B-datetime
+7 พยากรณ์  weather/find	B-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-datetime
+10 ดวงจันทร์  weather/find	I-datetime
+11 อ่าว  weather/find	I-datetime
+
+
+# text: i need to know the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 19:25:datetime,26:34:weather/noun,39:52:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ถึง  weather/find	NoLabel
+4 ทราบ  weather/find	NoLabel
+5 ที่  weather/find	NoLabel
+6 ล่าสุด  weather/find	B-datetime
+7 พยากรณ์  weather/find	B-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-datetime
+10 ดวงจันทร์  weather/find	I-datetime
+11 อ่าว  weather/find	I-datetime
+
+
+# text: i need to know the latest forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 19:25:datetime,26:34:weather/noun,39:52:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ถึง  weather/find	NoLabel
+4 ทราบ  weather/find	NoLabel
+5 ที่  weather/find	NoLabel
+6 ล่าสุด  weather/find	B-datetime
+7 พยากรณ์  weather/find	B-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-datetime
+10 ดวงจันทร์  weather/find	I-datetime
+11 อ่าว  weather/find	I-datetime
+
+
+# text: Do you have thursday's weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:20:datetime,23:37:weather/noun,42:55:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพฤหัสบดี  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 รายงาน  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have thursday's weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:20:datetime,23:37:weather/noun,42:55:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพฤหัสบดี  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 รายงาน  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have thursday's weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 12:20:datetime,23:37:weather/noun,42:55:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพฤหัสบดี  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 รายงาน  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have Wednesday's weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:21:datetime,24:40:weather/noun,45:58:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพุธ  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 พยากรณ์  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have Wednesday's weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:21:datetime,24:40:weather/noun,45:58:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพุธ  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 พยากรณ์  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have Wednesday's weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:21:datetime,24:40:weather/noun,45:58:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพุธ  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 พยากรณ์  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have Wednesday's weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:21:datetime,24:40:weather/noun,45:58:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพุธ  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 พยากรณ์  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Do you have Wednesday's weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 12:21:datetime,24:40:weather/noun,45:58:location
+
+1 ทำ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 มี  weather/find	NoLabel
+4 วันพุธ  weather/find	B-datetime
+5 สภาพอากาศ  weather/find	B-weather/noun
+6 พยากรณ์  weather/find	I-weather/noun
+7 สำหรับ  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+
+
+# text: Give me most recent forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:19:datetime,20:28:weather/noun,33:46:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 มากที่สุด  weather/find	B-datetime
+4 ล่าสุด  weather/find	I-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: Give me most recent forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:19:datetime,20:28:weather/noun,33:46:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 มากที่สุด  weather/find	B-datetime
+4 ล่าสุด  weather/find	I-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: Give me most recent forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:19:datetime,20:28:weather/noun,33:46:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 มากที่สุด  weather/find	B-datetime
+4 ล่าสุด  weather/find	I-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: Give me most recent forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:19:datetime,20:28:weather/noun,33:46:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 มากที่สุด  weather/find	B-datetime
+4 ล่าสุด  weather/find	I-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: Give me most recent forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 8:19:datetime,20:28:weather/noun,33:46:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 มากที่สุด  weather/find	B-datetime
+4 ล่าสุด  weather/find	I-datetime
+5 พยากรณ์  weather/find	B-weather/noun
+6 สำหรับ  weather/find	NoLabel
+7 ครึ่ง  weather/find	B-location
+8 ดวงจันทร์  weather/find	I-location
+9 อ่าว  weather/find	I-location
+
+
+# text: give me Thursday's half moon bay weather report
+
+# intent: weather/find
+
+# slots: 8:16:datetime,19:32:location,33:47:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันพฤหัสบดี  weather/find	B-datetime
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+7 สภาพอากาศ  weather/find	B-weather/noun
+8 รายงาน  weather/find	I-weather/noun
+
+
+# text: give me Thursday's half moon bay weather report
+
+# intent: weather/find
+
+# slots: 8:16:datetime,19:32:location,33:47:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันพฤหัสบดี  weather/find	B-datetime
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+7 สภาพอากาศ  weather/find	B-weather/noun
+8 รายงาน  weather/find	I-weather/noun
+
+
+# text: give me Thursday's half moon bay weather report
+
+# intent: weather/find
+
+# slots: 8:16:datetime,19:32:location,33:47:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันพฤหัสบดี  weather/find	B-datetime
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+7 สภาพอากาศ  weather/find	B-weather/noun
+8 รายงาน  weather/find	I-weather/noun
+
+
+# text: give me Thursday's half moon bay weather report
+
+# intent: weather/find
+
+# slots: 8:16:datetime,19:32:location,33:47:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันพฤหัสบดี  weather/find	B-datetime
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+7 สภาพอากาศ  weather/find	B-weather/noun
+8 รายงาน  weather/find	I-weather/noun
+
+
+# text: give me Thursday's half moon bay weather report
+
+# intent: weather/find
+
+# slots: 8:16:datetime,19:32:location,33:47:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 วันพฤหัสบดี  weather/find	B-datetime
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+7 สภาพอากาศ  weather/find	B-weather/noun
+8 รายงาน  weather/find	I-weather/noun
+
+
+# text: Give me the most recent half moon bay weather report
+
+# intent: weather/find
+
+# slots: 12:23:datetime,24:37:location,38:52:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 สภาพอากาศ  weather/find	B-weather/noun
+10 รายงาน  weather/find	I-weather/noun
+
+
+# text: Give me the most recent half moon bay weather report
+
+# intent: weather/find
+
+# slots: 12:23:datetime,24:37:location,38:52:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 สภาพอากาศ  weather/find	B-weather/noun
+10 รายงาน  weather/find	I-weather/noun
+
+
+# text: Give me the most recent half moon bay weather report
+
+# intent: weather/find
+
+# slots: 12:23:datetime,24:37:location,38:52:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 สภาพอากาศ  weather/find	B-weather/noun
+10 รายงาน  weather/find	I-weather/noun
+
+
+# text: Give me the most recent half moon bay weather report
+
+# intent: weather/find
+
+# slots: 12:23:datetime,24:37:location,38:52:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 สภาพอากาศ  weather/find	B-weather/noun
+10 รายงาน  weather/find	I-weather/noun
+
+
+# text: Give me the most recent half moon bay weather report
+
+# intent: weather/find
+
+# slots: 12:23:datetime,24:37:location,38:52:weather/noun
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 สภาพอากาศ  weather/find	B-weather/noun
+10 รายงาน  weather/find	I-weather/noun
+
+
+# text: i need half moon bay's weather report for sunday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันอาทิตย์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for sunday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันอาทิตย์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for sunday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันอาทิตย์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for sunday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันอาทิตย์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for sunday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันอาทิตย์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for Monday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันจันทร์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for Monday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันจันทร์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for Monday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันจันทร์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for Monday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันจันทร์  weather/find	B-datetime
+
+
+# text: i need half moon bay's weather report for Monday
+
+# intent: weather/find
+
+# slots: 7:20:location,23:37:weather/noun,42:48:datetime
+
+1 ผม  weather/find	NoLabel
+2 ความต้องการ  weather/find	NoLabel
+3 ครึ่ง  weather/find	B-location
+4 ดวงจันทร์  weather/find	I-location
+5 อ่าว  weather/find	I-location
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 วันจันทร์  weather/find	B-datetime
+
+
+# text: give me your most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 13:24:datetime,25:39:weather/noun,44:57:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ของคุณ  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-location
+10 ดวงจันทร์  weather/find	I-location
+11 อ่าว  weather/find	I-location
+
+
+# text: give me your most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 13:24:datetime,25:39:weather/noun,44:57:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ของคุณ  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-location
+10 ดวงจันทร์  weather/find	I-location
+11 อ่าว  weather/find	I-location
+
+
+# text: give me your most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 13:24:datetime,25:39:weather/noun,44:57:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ของคุณ  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-location
+10 ดวงจันทร์  weather/find	I-location
+11 อ่าว  weather/find	I-location
+
+
+# text: give me your most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 13:24:datetime,25:39:weather/noun,44:57:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ของคุณ  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-location
+10 ดวงจันทร์  weather/find	I-location
+11 อ่าว  weather/find	I-location
+
+
+# text: give me your most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 13:24:datetime,25:39:weather/noun,44:57:location
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ของคุณ  weather/find	NoLabel
+4 มากที่สุด  weather/find	B-datetime
+5 ล่าสุด  weather/find	I-datetime
+6 สภาพอากาศ  weather/find	B-weather/noun
+7 รายงาน  weather/find	I-weather/noun
+8 สำหรับ  weather/find	NoLabel
+9 ครึ่ง  weather/find	B-location
+10 ดวงจันทร์  weather/find	I-location
+11 อ่าว  weather/find	I-location
+
+
+# text: most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:11:datetime,12:26:weather/noun,31:44:location
+
+1 มากที่สุด  weather/find	B-datetime
+2 ล่าสุด  weather/find	I-datetime
+3 สภาพอากาศ  weather/find	B-weather/noun
+4 รายงาน  weather/find	I-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:11:datetime,12:26:weather/noun,31:44:location
+
+1 มากที่สุด  weather/find	B-datetime
+2 ล่าสุด  weather/find	I-datetime
+3 สภาพอากาศ  weather/find	B-weather/noun
+4 รายงาน  weather/find	I-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:11:datetime,12:26:weather/noun,31:44:location
+
+1 มากที่สุด  weather/find	B-datetime
+2 ล่าสุด  weather/find	I-datetime
+3 สภาพอากาศ  weather/find	B-weather/noun
+4 รายงาน  weather/find	I-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:11:datetime,12:26:weather/noun,31:44:location
+
+1 มากที่สุด  weather/find	B-datetime
+2 ล่าสุด  weather/find	I-datetime
+3 สภาพอากาศ  weather/find	B-weather/noun
+4 รายงาน  weather/find	I-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: most recent weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:11:datetime,12:26:weather/noun,31:44:location
+
+1 มากที่สุด  weather/find	B-datetime
+2 ล่าสุด  weather/find	I-datetime
+3 สภาพอากาศ  weather/find	B-weather/noun
+4 รายงาน  weather/find	I-weather/noun
+5 สำหรับ  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+
+
+# text: Tuesday weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:datetime,8:24:weather/noun,29:42:location
+
+1 วันอังคาร  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 พยากรณ์  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Tuesday weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:datetime,8:24:weather/noun,29:42:location
+
+1 วันอังคาร  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 พยากรณ์  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Tuesday weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:datetime,8:24:weather/noun,29:42:location
+
+1 วันอังคาร  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 พยากรณ์  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Tuesday weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:datetime,8:24:weather/noun,29:42:location
+
+1 วันอังคาร  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 พยากรณ์  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Tuesday weather forecast for half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:datetime,8:24:weather/noun,29:42:location
+
+1 วันอังคาร  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 พยากรณ์  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Friday weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:6:datetime,7:21:weather/noun,26:39:location
+
+1 วันศุกร์  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 รายงาน  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Friday weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:6:datetime,7:21:weather/noun,26:39:location
+
+1 วันศุกร์  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 รายงาน  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Friday weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:6:datetime,7:21:weather/noun,26:39:location
+
+1 วันศุกร์  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 รายงาน  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Friday weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:6:datetime,7:21:weather/noun,26:39:location
+
+1 วันศุกร์  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 รายงาน  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: Friday weather report for half moon bay
+
+# intent: weather/find
+
+# slots: 0:6:datetime,7:21:weather/noun,26:39:location
+
+1 วันศุกร์  weather/find	B-datetime
+2 สภาพอากาศ  weather/find	B-weather/noun
+3 รายงาน  weather/find	I-weather/noun
+4 สำหรับ  weather/find	NoLabel
+5 ครึ่ง  weather/find	B-location
+6 ดวงจันทร์  weather/find	I-location
+7 อ่าว  weather/find	I-location
+
+
+# text: is monday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is monday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is monday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is monday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is monday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is wednesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is wednesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is wednesday to be sunny
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is thursday to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is thursday to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is thursday to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is friday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is friday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is friday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is saturday to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is saturday to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is saturday to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is sunday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is sunday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is sunday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is sunday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is sunday to be sunny
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is monday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is monday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is monday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:23:weather/noun
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/noun
+
+
+# text: is tuesday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:23:weather/noun
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/noun
+
+
+# text: is tuesday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:23:weather/noun
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/noun
+
+
+# text: is wednesday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:25:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is wednesday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:25:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is wednesday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:25:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is thursday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is thursday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is thursday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is friday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is friday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is friday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is saturday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is saturday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is saturday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is sunday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is sunday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is sunday to be cloudy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+
+
+# text: is monday to be rainy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is monday to be rainy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is monday to be rainy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be rainy
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be rainy
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is tuesday to be rainy
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is wednesday to be rainy?
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is wednesday to be rainy?
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is wednesday to be rainy?
+
+# intent: weather/find
+
+# slots: 3:12:datetime,19:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพุธ  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is thursday to be rainy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is thursday to be rainy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is thursday to be rainy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is friday to be rainy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is friday to be rainy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is friday to be rainy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is saturday to be rainy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is saturday to be rainy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: is saturday to be rainy
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+
+
+# text: set an alarm for 830
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 830  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 830
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 830  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 830
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 830  alarm/set_alarm	I-datetime
+
+
+# text: set alarm for 750
+
+# intent: alarm/set_alarm
+
+# slots: 10:17:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+3 สำหรับ  alarm/set_alarm	B-datetime
+4 750  alarm/set_alarm	I-datetime
+
+
+# text: set alarm for 750
+
+# intent: alarm/set_alarm
+
+# slots: 10:17:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+3 สำหรับ  alarm/set_alarm	B-datetime
+4 750  alarm/set_alarm	I-datetime
+
+
+# text: set alarm for 750
+
+# intent: alarm/set_alarm
+
+# slots: 10:17:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+3 สำหรับ  alarm/set_alarm	B-datetime
+4 750  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 730
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 730  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 730
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 730  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 730
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 730  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 540
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 540  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 540
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 540  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 540
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 540  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 1215
+
+# intent: alarm/set_alarm
+
+# slots: 13:21:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 1215  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 1215
+
+# intent: alarm/set_alarm
+
+# slots: 13:21:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 1215  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 1215
+
+# intent: alarm/set_alarm
+
+# slots: 13:21:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 1215  alarm/set_alarm	I-datetime
+
+
+# text: set alarm for 630
+
+# intent: alarm/set_alarm
+
+# slots: 10:17:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+3 สำหรับ  alarm/set_alarm	B-datetime
+4 630  alarm/set_alarm	I-datetime
+
+
+# text: set alarm for 630
+
+# intent: alarm/set_alarm
+
+# slots: 10:17:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+3 สำหรับ  alarm/set_alarm	B-datetime
+4 630  alarm/set_alarm	I-datetime
+
+
+# text: set alarm for 630
+
+# intent: alarm/set_alarm
+
+# slots: 10:17:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+3 สำหรับ  alarm/set_alarm	B-datetime
+4 630  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 820
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 820  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 820
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 820  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 820
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 820  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 920
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 920  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 920
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 920  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 920
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 920  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 125
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 125  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 125
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 125  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 125
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 125  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 210
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 210  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 210
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 210  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 210
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 210  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 402
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 402  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 402
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 402  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 402
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 402  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 330
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 330  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 330
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 330  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 330
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 330  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 1115
+
+# intent: alarm/set_alarm
+
+# slots: 13:21:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 1115  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 1115
+
+# intent: alarm/set_alarm
+
+# slots: 13:21:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 1115  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 1115
+
+# intent: alarm/set_alarm
+
+# slots: 13:21:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 1115  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 620
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 620  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 620
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 620  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 620
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 620  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 920
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 920  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 920
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 920  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 920
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 920  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 215
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 215  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 215
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 215  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 215
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 215  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 535
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 535  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 535
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 535  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 535
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 535  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 622
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 622  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 622
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 622  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 622
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 622  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 905
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 905  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 905
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 905  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 905
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 905  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 302
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 302  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 302
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 302  alarm/set_alarm	I-datetime
+
+
+# text: set an alarm for 302
+
+# intent: alarm/set_alarm
+
+# slots: 13:20:datetime
+
+1 ชุด  alarm/set_alarm	NoLabel
+2 ก  alarm/set_alarm	NoLabel
+3 นาฬิกาปลุก  alarm/set_alarm	NoLabel
+4 สำหรับ  alarm/set_alarm	B-datetime
+5 302  alarm/set_alarm	I-datetime
+
+
+# text: Tell me my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ผม  alarm/show_alarms	NoLabel
+3 ของฉัน  alarm/show_alarms	NoLabel
+4 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell me my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ผม  alarm/show_alarms	NoLabel
+3 ของฉัน  alarm/show_alarms	NoLabel
+4 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell me my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ผม  alarm/show_alarms	NoLabel
+3 ของฉัน  alarm/show_alarms	NoLabel
+4 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: My alarms now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Tell my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Give my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ให้  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Give my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ให้  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Give my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ให้  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Alarms now, if you please
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ตอนนี้  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ถ้า  alarm/show_alarms	NoLabel
+5 คุณ  alarm/show_alarms	NoLabel
+6 กรุณา  alarm/show_alarms	NoLabel
+
+
+# text: Alarms now, if you please
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ตอนนี้  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ถ้า  alarm/show_alarms	NoLabel
+5 คุณ  alarm/show_alarms	NoLabel
+6 กรุณา  alarm/show_alarms	NoLabel
+
+
+# text: Alarms now, if you please
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ตอนนี้  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ถ้า  alarm/show_alarms	NoLabel
+5 คุณ  alarm/show_alarms	NoLabel
+6 กรุณา  alarm/show_alarms	NoLabel
+
+
+# text: Alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Tell me my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ผม  alarm/show_alarms	NoLabel
+3 ของฉัน  alarm/show_alarms	NoLabel
+4 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell me my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ผม  alarm/show_alarms	NoLabel
+3 ของฉัน  alarm/show_alarms	NoLabel
+4 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell me my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ผม  alarm/show_alarms	NoLabel
+3 ของฉัน  alarm/show_alarms	NoLabel
+4 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: My alarms now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Tell my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Tell my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 บอก  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Give my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ให้  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Give my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ให้  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Give my alarms
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ให้  alarm/show_alarms	NoLabel
+2 ของฉัน  alarm/show_alarms	NoLabel
+3 สัญญาณเตือน  alarm/show_alarms	NoLabel
+
+
+# text: Alarms now, if you please
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ตอนนี้  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ถ้า  alarm/show_alarms	NoLabel
+5 คุณ  alarm/show_alarms	NoLabel
+6 กรุณา  alarm/show_alarms	NoLabel
+
+
+# text: Alarms now, if you please
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ตอนนี้  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ถ้า  alarm/show_alarms	NoLabel
+5 คุณ  alarm/show_alarms	NoLabel
+6 กรุณา  alarm/show_alarms	NoLabel
+
+
+# text: Alarms now, if you please
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ตอนนี้  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ถ้า  alarm/show_alarms	NoLabel
+5 คุณ  alarm/show_alarms	NoLabel
+6 กรุณา  alarm/show_alarms	NoLabel
+
+
+# text: Alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 สัญญาณเตือน  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: Alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+2 ,  alarm/show_alarms	NoLabel
+3 ขวา  alarm/show_alarms	NoLabel
+4 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarms, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 สัญญาณเตือน  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: My alarm, right now
+
+# intent: alarm/show_alarms
+
+# slots: 
+
+1 ของฉัน  alarm/show_alarms	NoLabel
+2 นาฬิกาปลุก  alarm/show_alarms	NoLabel
+3 ,  alarm/show_alarms	NoLabel
+4 ขวา  alarm/show_alarms	NoLabel
+5 ตอนนี้  alarm/show_alarms	NoLabel
+
+
+# text: is there rain today
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ฝน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: is there rain today
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ฝน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: is there rain today
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ฝน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: is there sun today
+
+# intent: weather/find
+
+# slots: 9:12:weather/attribute,13:18:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ดวงอาทิตย์  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: is there sun today
+
+# intent: weather/find
+
+# slots: 9:12:weather/attribute,13:18:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ดวงอาทิตย์  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: is there sun today
+
+# intent: weather/find
+
+# slots: 9:12:weather/attribute,13:18:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ดวงอาทิตย์  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: are there clouds today
+
+# intent: weather/find
+
+# slots: 10:16:weather/attribute,17:22:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 เมฆ  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: are there clouds today
+
+# intent: weather/find
+
+# slots: 10:16:weather/attribute,17:22:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 เมฆ  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: are there clouds today
+
+# intent: weather/find
+
+# slots: 10:16:weather/attribute,17:22:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 เมฆ  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+
+
+# text: is it hot today?
+
+# intent: weather/find
+
+# slots: 6:9:weather/attribute,10:15:datetime
+
+1 คือ  weather/find	NoLabel
+2 มัน  weather/find	NoLabel
+3 ร้อน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is it hot today?
+
+# intent: weather/find
+
+# slots: 6:9:weather/attribute,10:15:datetime
+
+1 คือ  weather/find	NoLabel
+2 มัน  weather/find	NoLabel
+3 ร้อน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is it hot today?
+
+# intent: weather/find
+
+# slots: 6:9:weather/attribute,10:15:datetime
+
+1 คือ  weather/find	NoLabel
+2 มัน  weather/find	NoLabel
+3 ร้อน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there wind today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ลม  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there wind today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ลม  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there wind today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ลม  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there snow today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 หิมะ  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there snow today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 หิมะ  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there snow today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 หิมะ  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there humidity right now
+
+# intent: weather/find
+
+# slots: 9:17:weather/attribute,24:27:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ความชื้น  weather/find	B-weather/attribute
+4 ขวา  weather/find	NoLabel
+5 ตอนนี้  weather/find	B-datetime
+
+
+# text: is there humidity right now
+
+# intent: weather/find
+
+# slots: 9:17:weather/attribute,24:27:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ความชื้น  weather/find	B-weather/attribute
+4 ขวา  weather/find	NoLabel
+5 ตอนนี้  weather/find	B-datetime
+
+
+# text: is there humidity right now
+
+# intent: weather/find
+
+# slots: 9:17:weather/attribute,24:27:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ความชื้น  weather/find	B-weather/attribute
+4 ขวา  weather/find	NoLabel
+5 ตอนนี้  weather/find	B-datetime
+
+
+# text: is there heat today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ความร้อน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there heat today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ความร้อน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: is there heat today?
+
+# intent: weather/find
+
+# slots: 9:13:weather/attribute,14:19:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ความร้อน  weather/find	B-weather/attribute
+4 วันนี้  weather/find	B-datetime
+5 เหรอ?  weather/find	NoLabel
+
+
+# text: are there rain clouds today
+
+# intent: weather/find
+
+# slots: 10:21:weather/noun,22:27:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ฝน  weather/find	B-weather/noun
+4 เมฆ  weather/find	I-weather/noun
+5 วันนี้  weather/find	B-datetime
+
+
+# text: are there rain clouds today
+
+# intent: weather/find
+
+# slots: 10:21:weather/noun,22:27:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ฝน  weather/find	B-weather/noun
+4 เมฆ  weather/find	I-weather/noun
+5 วันนี้  weather/find	B-datetime
+
+
+# text: are there rain clouds today
+
+# intent: weather/find
+
+# slots: 10:21:weather/noun,22:27:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 ฝน  weather/find	B-weather/noun
+4 เมฆ  weather/find	I-weather/noun
+5 วันนี้  weather/find	B-datetime
+
+
+# text: are there ice storms today
+
+# intent: weather/find
+
+# slots: 10:20:weather/attribute,21:26:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 น้ำแข็ง  weather/find	B-weather/attribute
+4 พายุ  weather/find	I-weather/attribute
+5 วันนี้  weather/find	B-datetime
+
+
+# text: are there ice storms today
+
+# intent: weather/find
+
+# slots: 10:20:weather/attribute,21:26:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 น้ำแข็ง  weather/find	B-weather/attribute
+4 พายุ  weather/find	I-weather/attribute
+5 วันนี้  weather/find	B-datetime
+
+
+# text: are there ice storms today
+
+# intent: weather/find
+
+# slots: 10:20:weather/attribute,21:26:datetime
+
+1 คือ  weather/find	NoLabel
+2 นั่นเอง  weather/find	NoLabel
+3 น้ำแข็ง  weather/find	B-weather/attribute
+4 พายุ  weather/find	I-weather/attribute
+5 วันนี้  weather/find	B-datetime
+
+
+# text: is tomorrow to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tomorrow to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tomorrow to be sunny
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 แดดจัด  weather/find	B-weather/attribute
+
+
+# text: is tomorrow to be cloudy?
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is tomorrow to be cloudy?
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is tomorrow to be cloudy?
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 มีเมฆมาก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is thursday to be rainy?
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is thursday to be rainy?
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is thursday to be rainy?
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันพฤหัสบดี  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ฝนตก  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is friday to be storming?
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 พายุ  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is friday to be storming?
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 พายุ  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is friday to be storming?
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:24:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 พายุ  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is Friday to be hot
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:19:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ร้อน  weather/find	B-weather/attribute
+
+
+# text: is Friday to be hot
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:19:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ร้อน  weather/find	B-weather/attribute
+
+
+# text: is Friday to be hot
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:19:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันศุกร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ร้อน  weather/find	B-weather/attribute
+
+
+# text: is Tuesday to be clear?
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ชัดเจน  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is Tuesday to be clear?
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ชัดเจน  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is Tuesday to be clear?
+
+# intent: weather/find
+
+# slots: 3:10:datetime,17:22:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอังคาร  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ชัดเจน  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: Is Saturday to be humid
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ชื้น  weather/find	B-weather/attribute
+
+
+# text: Is Saturday to be humid
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ชื้น  weather/find	B-weather/attribute
+
+
+# text: Is Saturday to be humid
+
+# intent: weather/find
+
+# slots: 3:11:datetime,18:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันเสาร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 ชื้น  weather/find	B-weather/attribute
+
+
+# text: is Monday to be snowy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 เต็มไปด้วยหิมะ  weather/find	B-weather/attribute
+
+
+# text: is Monday to be snowy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 เต็มไปด้วยหิมะ  weather/find	B-weather/attribute
+
+
+# text: is Monday to be snowy
+
+# intent: weather/find
+
+# slots: 3:9:datetime,16:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันจันทร์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 เป็น  weather/find	NoLabel
+5 เต็มไปด้วยหิมะ  weather/find	B-weather/attribute
+
+
+# text: is Sunday to have sun?
+
+# intent: weather/find
+
+# slots: 3:9:datetime,18:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 มี  weather/find	NoLabel
+5 ดวงอาทิตย์  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is Sunday to have sun?
+
+# intent: weather/find
+
+# slots: 3:9:datetime,18:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 มี  weather/find	NoLabel
+5 ดวงอาทิตย์  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is Sunday to have sun?
+
+# intent: weather/find
+
+# slots: 3:9:datetime,18:21:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 วันอาทิตย์  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 มี  weather/find	NoLabel
+5 ดวงอาทิตย์  weather/find	B-weather/attribute
+6 เหรอ?  weather/find	NoLabel
+
+
+# text: is tomorrow to have ice
+
+# intent: weather/find
+
+# slots: 3:11:datetime,20:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 มี  weather/find	NoLabel
+5 น้ำแข็ง  weather/find	B-weather/attribute
+
+
+# text: is tomorrow to have ice
+
+# intent: weather/find
+
+# slots: 3:11:datetime,20:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 มี  weather/find	NoLabel
+5 น้ำแข็ง  weather/find	B-weather/attribute
+
+
+# text: is tomorrow to have ice
+
+# intent: weather/find
+
+# slots: 3:11:datetime,20:23:weather/attribute
+
+1 คือ  weather/find	NoLabel
+2 พรุ่งนี้  weather/find	B-datetime
+3 ถึง  weather/find	NoLabel
+4 มี  weather/find	NoLabel
+5 น้ำแข็ง  weather/find	B-weather/attribute
+
+
+# text: Weather tomorrow in half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:weather/noun,8:16:datetime,20:33:location
+
+1 สภาพอากาศ  weather/find	B-weather/noun
+2 พรุ่งนี้  weather/find	B-datetime
+3 ใน  weather/find	NoLabel
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+
+
+# text: Weather tomorrow in half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:weather/noun,8:16:datetime,20:33:location
+
+1 สภาพอากาศ  weather/find	B-weather/noun
+2 พรุ่งนี้  weather/find	B-datetime
+3 ใน  weather/find	NoLabel
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+
+
+# text: Weather tomorrow in half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:weather/noun,8:16:datetime,20:33:location
+
+1 สภาพอากาศ  weather/find	B-weather/noun
+2 พรุ่งนี้  weather/find	B-datetime
+3 ใน  weather/find	NoLabel
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+
+
+# text: Weather tomorrow in half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:weather/noun,8:16:datetime,20:33:location
+
+1 สภาพอากาศ  weather/find	B-weather/noun
+2 พรุ่งนี้  weather/find	B-datetime
+3 ใน  weather/find	NoLabel
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+
+
+# text: Weather tomorrow in half moon bay
+
+# intent: weather/find
+
+# slots: 0:7:weather/noun,8:16:datetime,20:33:location
+
+1 สภาพอากาศ  weather/find	B-weather/noun
+2 พรุ่งนี้  weather/find	B-datetime
+3 ใน  weather/find	NoLabel
+4 ครึ่ง  weather/find	B-location
+5 ดวงจันทร์  weather/find	I-location
+6 อ่าว  weather/find	I-location
+
+
+# text: give me the weather in half moon bay tomorrow
+
+# intent: weather/find
+
+# slots: 12:19:weather/noun,23:36:location,37:45:datetime
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 ใน  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 พรุ่งนี้  weather/find	B-datetime
+
+
+# text: give me the weather in half moon bay tomorrow
+
+# intent: weather/find
+
+# slots: 12:19:weather/noun,23:36:location,37:45:datetime
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 ใน  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 พรุ่งนี้  weather/find	B-datetime
+
+
+# text: give me the weather in half moon bay tomorrow
+
+# intent: weather/find
+
+# slots: 12:19:weather/noun,23:36:location,37:45:datetime
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 ใน  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 พรุ่งนี้  weather/find	B-datetime
+
+
+# text: give me the weather in half moon bay tomorrow
+
+# intent: weather/find
+
+# slots: 12:19:weather/noun,23:36:location,37:45:datetime
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 ใน  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 พรุ่งนี้  weather/find	B-datetime
+
+
+# text: give me the weather in half moon bay tomorrow
+
+# intent: weather/find
+
+# slots: 12:19:weather/noun,23:36:location,37:45:datetime
+
+1 ให้  weather/find	NoLabel
+2 ผม  weather/find	NoLabel
+3 ที่  weather/find	NoLabel
+4 สภาพอากาศ  weather/find	B-weather/noun
+5 ใน  weather/find	NoLabel
+6 ครึ่ง  weather/find	B-location
+7 ดวงจันทร์  weather/find	I-location
+8 อ่าว  weather/find	I-location
+9 พรุ่งนี้  weather/find	B-datetime
+
+
+# text: can you tell me tomorrow's forecast in half moon bay?
+
+# intent: weather/find
+
+# slots: 16:24:datetime,27:35:weather/noun,39:52:location
+
+1 สามารถ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 บอก  weather/find	NoLabel
+4 ผม  weather/find	NoLabel
+5 พรุ่งนี้  weather/find	B-datetime
+6 พยากรณ์  weather/find	B-weather/noun
+7 ใน  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+11 เหรอ?  weather/find	NoLabel
+
+
+# text: can you tell me tomorrow's forecast in half moon bay?
+
+# intent: weather/find
+
+# slots: 16:24:datetime,27:35:weather/noun,39:52:location
+
+1 สามารถ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 บอก  weather/find	NoLabel
+4 ผม  weather/find	NoLabel
+5 พรุ่งนี้  weather/find	B-datetime
+6 พยากรณ์  weather/find	B-weather/noun
+7 ใน  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+11 เหรอ?  weather/find	NoLabel
+
+
+# text: can you tell me tomorrow's forecast in half moon bay?
+
+# intent: weather/find
+
+# slots: 16:24:datetime,27:35:weather/noun,39:52:location
+
+1 สามารถ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 บอก  weather/find	NoLabel
+4 ผม  weather/find	NoLabel
+5 พรุ่งนี้  weather/find	B-datetime
+6 พยากรณ์  weather/find	B-weather/noun
+7 ใน  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location
+10 อ่าว  weather/find	I-location
+11 เหรอ?  weather/find	NoLabel
+
+
+# text: can you tell me tomorrow's forecast in half moon bay?
+
+# intent: weather/find
+
+# slots: 16:24:datetime,27:35:weather/noun,39:52:location
+
+1 สามารถ  weather/find	NoLabel
+2 คุณ  weather/find	NoLabel
+3 บอก  weather/find	NoLabel
+4 ผม  weather/find	NoLabel
+5 พรุ่งนี้  weather/find	B-datetime
+6 พยากรณ์  weather/find	B-weather/noun
+7 ใน  weather/find	NoLabel
+8 ครึ่ง  weather/find	B-location
+9 ดวงจันทร์  weather/find	I-location

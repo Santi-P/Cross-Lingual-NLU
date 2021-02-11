@@ -1,0 +1,117 @@
+reminder/cancel_reminder     0.9846    0.9796    0.9821       196
+            weather/find     0.9951    0.9990    0.9971      1025
+      alarm/cancel_alarm     0.9751    0.9476    0.9611       248
+ reminder/show_reminders     0.9747    0.9448    0.9595       163
+      alarm/snooze_alarm     0.9412    0.9143    0.9275        35
+alarm/time_left_on_alarm     1.0000    1.0000    1.0000        30
+      alarm/modify_alarm     1.0000    0.8529    0.9206        34
+     weather/checkSunset     0.0000    0.0000    0.0000         2
+    weather/checkSunrise     0.0000    0.0000    0.0000         0
+       alarm/show_alarms     0.9365    0.9752    0.9555       121
+   reminder/set_reminder     0.9816    0.9923    0.9869       646
+         alarm/set_alarm     0.9653    0.9724    0.9688       543
+
+                accuracy                         0.9803      3043
+               macro avg     0.8128    0.7982    0.8049      3043
+            weighted avg     0.9800    0.9803    0.9800      3043
+
+                              precision    recall  f1-score   support
+
+      B-alarm/alarm_modifier     0.2857    0.5000    0.3636         4
+        I-reminder/reference     0.0000    0.0000    0.0000         4
+B-reminder/reminder_modifier     0.0000    0.0000    0.0000         0
+             I-reminder/todo     0.9183    0.9564    0.9370      2869
+                     NoLabel     0.9678    0.9610    0.9644     14540
+          B-timer/attributes     0.0000    0.0000    0.0000         0
+                  B-datetime     0.9262    0.9333    0.9298      2085
+             B-reminder/todo     0.8324    0.8270    0.8297       919
+ B-reminder/recurring_period     0.5417    0.4333    0.4815        30
+                B-timer/noun     0.0000    0.0000    0.0000         0
+              I-weather/noun     0.7083    0.4250    0.5312        80
+                  B-negation     0.0000    0.0000    0.0000         2
+             B-reminder/noun     0.9506    0.9498    0.9502      1175
+         I-weather/attribute     0.7111    0.5854    0.6421       164
+      I-alarm/alarm_modifier     0.1429    0.2500    0.1818         4
+              B-weather/noun     0.9154    0.9381    0.9266       565
+                  I-datetime     0.9485    0.9572    0.9528      5114
+         B-weather/attribute     0.9105    0.9160    0.9132      1321
+ I-reminder/recurring_period     0.7097    0.3492    0.4681        63
+                  I-location     0.7863    0.8193    0.8025       238
+   B-demonstrative_reference     0.0000    0.0000    0.0000         0
+                  B-location     0.8701    0.8419    0.8558       525
+I-reminder/reminder_modifier     0.0000    0.0000    0.0000         0
+        B-reminder/reference     0.6250    0.3571    0.4545        14
+   B-weather/temperatureUnit     0.0000    0.0000    0.0000         0
+             I-reminder/noun     0.0426    0.0625    0.0506        32
+                 B-news/type     0.0000    0.0000    0.0000         0
+   I-demonstrative_reference     0.0000    0.0000    0.0000         0
+                  I-negation     0.0000    0.0000    0.0000         1
+    B-alarm/recurring_period     0.0000    0.0000    0.0000         0
+    I-alarm/recurring_period     0.0000    0.0000    0.0000         0
+
+                   micro avg     0.9407    0.9407    0.9407     29749
+                   macro avg     0.4127    0.3891    0.3947     29749
+                weighted avg     0.9405    0.9407    0.9403     29749
+
+sequence accuracy:  0.770949720670391
+exact matches 0.7594479132435097
+*************** cross test results for  data/es/test-es.conllu ***************
+1455it [00:22, 66.28it/s]                          precision    recall  f1-score   support
+
+reminder/cancel_reminder     1.0000    0.9820    0.9909       333
+            weather/find     0.9985    0.9995    0.9990      3952
+      alarm/cancel_alarm     0.9915    0.9881    0.9898       588
+ reminder/show_reminders     0.9930    0.9861    0.9895       287
+      alarm/snooze_alarm     0.9431    0.9831    0.9627       118
+alarm/time_left_on_alarm     0.9725    0.9725    0.9725       109
+      alarm/modify_alarm     0.9684    0.7360    0.8364       125
+     weather/checkSunset     1.0000    0.9815    0.9907        54
+    weather/checkSunrise     1.0000    1.0000    1.0000        34
+       alarm/show_alarms     0.9697    0.9796    0.9746       294
+   reminder/set_reminder     0.9933    0.9993    0.9963      1340
+         alarm/set_alarm     0.9744    0.9892    0.9818      1387
+
+                accuracy                         0.9907      8621
+               macro avg     0.9837    0.9664    0.9737      8621
+            weighted avg     0.9907    0.9907    0.9905      8621
+
+                              precision    recall  f1-score   support
+
+      B-alarm/alarm_modifier     1.0000    1.0000    1.0000         3
+        I-reminder/reference     0.0000    0.0000    0.0000         0
+B-reminder/reminder_modifier     0.0000    0.0000    0.0000         2
+             I-reminder/todo     0.9408    0.9473    0.9440      4229
+                     NoLabel     0.9777    0.9707    0.9742     37951
+          B-timer/attributes     0.0000    0.0000    0.0000         0
+                  B-datetime     0.9614    0.9582    0.9598      6706
+             B-reminder/todo     0.9037    0.8853    0.8944      1665
+ B-reminder/recurring_period     0.8090    0.7273    0.7660        99
+                B-timer/noun     0.0000    0.0000    0.0000         0
+              I-weather/noun     0.8502    0.9461    0.8956       204
+                  B-negation     0.0000    0.0000    0.0000         3
+             B-reminder/noun     0.9766    0.9096    0.9419      1925
+         I-weather/attribute     0.7148    0.7984    0.7543       248
+      I-alarm/alarm_modifier     0.0000    0.0000    0.0000         0
+              B-weather/noun     0.9674    0.9662    0.9668      1718
+                  I-datetime     0.9297    0.9839    0.9560     10114
+         B-weather/attribute     0.9619    0.9614    0.9617      3968
+ I-reminder/recurring_period     0.8200    0.7523    0.7847       109
+                  I-location     0.9203    0.9255    0.9229       886
+   B-demonstrative_reference     0.0000    0.0000    0.0000         0
+                  B-location     0.9592    0.9232    0.9409      2319
+I-reminder/reminder_modifier     0.0000    0.0000    0.0000         0
+        B-reminder/reference     0.7969    0.6000    0.6846        85
+   B-weather/temperatureUnit     1.0000    0.8662    0.9283       538
+             I-reminder/noun     0.0000    0.0000    0.0000        13
+                 B-news/type     0.0000    0.0000    0.0000         1
+   I-demonstrative_reference     0.0000    0.0000    0.0000         0
+                  I-negation     0.0000    0.0000    0.0000         0
+    B-alarm/recurring_period     0.0000    0.0000    0.0000         0
+    I-alarm/recurring_period     0.0000    0.0000    0.0000         0
+
+                   micro avg     0.9610    0.9610    0.9610     72786
+                   macro avg     0.4997    0.4878    0.4928     72786
+                weighted avg     0.9613    0.9610    0.9609     72786
+
+sequence accuracy:  0.8432896415729034
+exact matches 0.8369098712446352

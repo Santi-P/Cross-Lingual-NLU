@@ -139,10 +139,11 @@ class ConLLLoader(Dataset):
 
 
 if __name__ == "__main__":
-    train_path = "/home/santi/BA/multilingual_task_oriented_dialog_slotfilling/en/train-en.conllu"
-    model_name = "xlm-roberta-base"
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    train_set = ConLLLoader(train_path, tokenizer, intent_labels_list, slot_labels_list)
-    for i in train_set:
-        print(i)
-    print(len(train_set))
+    pass
+    # train_path = "/home/santi/BA/multilingual_task_oriented_dialog_slotfilling/en/train-en.conllu"
+    # model_name = "xlm-roberta-base"
+    # tokenizer = AutoTokenizer.from_pretrained(model_name)
+    # train_set = ConLLLoader(train_path, tokenizer, intent_labels_list, slot_labels_list)
+    # for i in train_set:
+    #     print(i)
+    # print(len(train_set))
