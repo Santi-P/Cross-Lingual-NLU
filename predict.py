@@ -19,10 +19,9 @@ from transformers import (
 )
 
 import numpy as np
-from XLMTransformers import JointClassifier
+from joint_nlu_models import JointClassifier, config_init
 import torch
-from XLMTransformers import config_init
-from conll_loader import intent_labels_list, slot_labels_list, ConLLLoader
+from preprocessing.conll_loader import intent_labels_list, slot_labels_list, ConLLLoader
 from joint_metrics import joint_classification_report, exact_match, show_align_labels
 import logging
 import argparse
@@ -75,7 +74,7 @@ tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-base")
 training_args = TrainingArguments(
     output_dir="./results",  # output directory for check points
     logging_dir="./logs",
-    label_names=["intent_label_ids", "slot_labels_ids"],
+    label_names=["intent_labels", "slot_labels"],
 )
 
 # parse and build test set

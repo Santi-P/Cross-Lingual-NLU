@@ -27,9 +27,9 @@ from transformers import (
 from transformers.integrations import TensorBoardCallback, WandbCallback
 from transformers.trainer_callback import PrinterCallback
 
-from XLMTransformers import *
+from joint_nlu_models import *
 from sklearn.metrics import classification_report
-from conll_loader import ConLLLoader, intent_labels_list, slot_labels_list
+from preprocessing.conll_loader import ConLLLoader, intent_labels_list, slot_labels_list
 
 from joint_metrics import running_metrics, joint_classification_report, exact_match
 
@@ -264,7 +264,7 @@ training_args = TrainingArguments(
     learning_rate=args.lr,
     save_steps=5000,
     fp16=fp16,
-    label_names=["intent_label_ids", "slot_labels_ids"],
+    label_names=["intent_labels", "slot_labels"],
     evaluation_strategy="epoch",
     run_name=args.run_name,
     save_total_limit = 3, # prevent save files from crashing computer
@@ -321,7 +321,7 @@ if extrain_set != None and (args.sequential_train == True):
         compute_metrics=running_metrics,
         #callbacks = [PrinterCallback]
     )
-    
+    # sequential train
     trainer.train()
 
 
