@@ -1,4 +1,6 @@
-
+# pre-trained loader and model prediction for joint NLU. 
+# last edited: 10.2.2021
+# SP
 
 # stack overflow hack to supress annoying scikitlearn warnings.
 def warn(*args, **kwargs):

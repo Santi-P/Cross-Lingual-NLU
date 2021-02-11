@@ -1,3 +1,7 @@
+# dataloader for conllu training data. 
+# last edited: 10.2.2021
+# SP
+
 from torch.utils.data import Dataset, DataLoader
 from transformers import (
     AutoConfig,

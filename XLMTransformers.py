@@ -1,3 +1,6 @@
+# Custom transformer models for Joint NLU. 
+# last edited: 10.2.2021
+# SP
 import transformers
 from transformers import (
     AutoConfig,
@@ -93,7 +96,7 @@ class SlotClassifier(nn.Module):
 
 
 class JointClassifier(RobertaPreTrainedModel):
-    "XLM-R Joint Classifier"
+    "XLM-R Joint Classifier. Based on the Architecture described by Chen 2019"
 
     def __init__(self, config, num_intents=12, num_slots=31, return_dict=True):
         # bug 
@@ -111,6 +114,7 @@ class JointClassifier(RobertaPreTrainedModel):
 
         self.return_dict = return_dict
 
+        #initial lize weights. Uses inherited Roberta Init
         self.init_weights()
 
     def forward(
@@ -118,9 +122,10 @@ class JointClassifier(RobertaPreTrainedModel):
         input_ids=None,
         attention_mask=None,
         token_type_ids=None,
-        intent_label_ids=None,
-        slot_labels_ids=None,
+        intent_labels=None,
+        slot_labels=None,
     ):
+        """main forward function for the NN"""
 
         # pass inputs and attention masks into XLM Roberta
         outputs = self.roberta(
@@ -137,31 +142,31 @@ class JointClassifier(RobertaPreTrainedModel):
         total_loss = 0.0
 
         # if label is not empty
-        if slot_labels_ids is not None:
+        if slot_labels is not None:
 
-            slot_loss_fct = nn.CrossEntropyLoss()
+            slot_cross_ent = nn.CrossEntropyLoss()
 
             # apply attention masks to padding tokens
             if attention_mask is not None:
                 active_loss = attention_mask.view(-1) == 1
                 active_logits = slot_logits.view(-1, self.num_slot_labels)[active_loss]
-                active_labels = slot_labels_ids.view(-1)[active_loss]
+                active_labels = slot_labels.view(-1)[active_loss]
                 # calculate x-entropy
-                slot_loss = slot_loss_fct(active_logits, active_labels)
+                slot_loss = slot_cross_ent(active_logits, active_labels)
 
             else:
-                slot_loss = slot_loss_fct(
-                    slot_logits.view(-1, self.num_slot_labels), slot_labels_ids.view(-1)
+                slot_loss = slot_cross_ent(
+                    slot_logits.view(-1, self.num_slot_labels), slot_labels.view(-1)
                 )
 
             # print(slot_loss)
             total_loss += slot_loss
 
-        if intent_label_ids is not None:
-            intent_loss_fct = nn.CrossEntropyLoss()
-            intent_loss = intent_loss_fct(
+        if intent_labels is not None:
+            intent_cross_ent = nn.CrossEntropyLoss()
+            intent_loss = intent_cross_ent(
                 intent_logits.view(-1, self.num_intent_labels),
-                intent_label_ids.view(-1),
+                intent_labels.view(-1),
             )
             total_loss += intent_loss
 

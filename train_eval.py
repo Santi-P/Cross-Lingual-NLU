@@ -1,3 +1,8 @@
+# training script and commandline interface for Joint NLU. 
+# last edited: 10.2.2021
+# SP
+
+
 import argparse
 import os
 import sys
@@ -346,7 +351,5 @@ if extest_set != None:
     result_dict = joint_classification_report(preds, intent_labels_list, slot_labels_list)
     print("exact matches", exact_match(preds))
 
-
-# todo
 
 
