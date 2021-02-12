@@ -23,12 +23,12 @@ from transformers import (
 )
 
 # joint XLM-R NL
-from XLMTransformers import *
+from joint_nlu_models import *
 from typing import Dict, NamedTuple, Optional
 from sklearn.metrics import classification_report, f1_score, accuracy_score
 
 
-from conll_loader import ConLLLoader, intent_labels_list, slot_labels_list
+from preprocessing.conll_loader import ConLLLoader, intent_labels_list, slot_labels_list
 from sklearn_crfsuite import metrics as seq_metrics
 
 

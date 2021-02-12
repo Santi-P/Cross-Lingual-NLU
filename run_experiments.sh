@@ -3,9 +3,10 @@
 # last edited: 10.2.2021
 # SP
 
-
 # train english test en
 # base line eng
+
+
 python train_eval.py  \
 --train_file data/en/train-en.conllu  \
 --test_file data/en/test-en.conllu \
@@ -60,9 +61,6 @@ python train_eval.py  \
 --num_epochs 20 \
 --save_dir models/en_th_train \
 --run_name "en_th_train"\
-
-
-
 
 #xtrain en es, test es, sequential
 
