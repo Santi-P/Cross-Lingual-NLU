@@ -71,3 +71,6 @@ Chen, Q., Zhuo, Z., & Wang, W. (2019). BERT for Joint Intent Classification and 
 Conneau, A., Khandelwal, K., Goyal, N., Chaudhary, V., Wenzek, G., Guzmán, F., Grave, E., Ott, M., Zettlemoyer, L., & Stoyanov, V. (2020). Unsupervised Cross-lingual Representation Learning at Scale. ACL.
 
 Schuster, S., Gupta, S., Shah, R., & Lewis, M. (2019). Cross-lingual Transfer Learning for Multilingual Task Oriented Dialog. ArXiv, abs/1810.13327.
+
+# Bugs
+I am unable to suppress the reports during training. I suspect this has something to do with the Trainer API and Tensorboard logging. 
